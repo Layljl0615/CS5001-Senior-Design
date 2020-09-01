@@ -8,10 +8,10 @@
 - Research Assistant Coop Jan (1 quarter)    
 Next Mobility Lab, Cincinnati, USA  
   - Geospatial Imagery Analytics Research Project
-    - Pulling meta data from the websites of Nearmap and Eagleview
-    - Built an API to download tens of thousands of satellite images from the websites of Nearmap and Eagleview
-  - Building Delta3D compiler to generate voxel  
-  - Implement ACAA algorithm with SUMO
+    - Pulled meta data from the websites of Nearmap and Eagleview
+    - Built API to download tens of thousands of satellite images from the websites of Nearmap and Eagleview
+  - Built Delta3D compiler to generate voxel  
+  - Implemented ACAA algorithm with SUMO
 
 - Big Data Development Engineer Coop (1 quarter)   
 RichAI Information Technology, LTD Beijing, China  
