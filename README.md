@@ -36,4 +36,4 @@ LEFTBRAIN Beijing, China
 **type of project sought：**
 - Artificial intelligence composes electronic music
 - Intelligent driving
-- object recognition
+- Object recognition
