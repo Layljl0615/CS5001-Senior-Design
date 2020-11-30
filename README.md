@@ -1,11 +1,11 @@
 
 # Lays
 
-# Members:Jiale Liu
+## Team Members
+* Jiale Liu
 
-
-1. Salvador Schwendeman (schwenso@mail.uc.edu)
-2. Ian Simon (simonij@mail.uc.edu)
+  * Computer Science
+  * liu3jl@mail.uc.edu
 
 # Faculty Advisor:
 
