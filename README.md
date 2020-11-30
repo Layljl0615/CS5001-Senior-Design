@@ -32,5 +32,6 @@ My senior design project is an application of face mask recognition. This is an 
 No budget required
 
 ## Appendix:
+Currently no resources
 
 
