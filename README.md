@@ -17,6 +17,8 @@ My senior design project is an application of face mask recognition. This is an 
 * [Design Diagrams](https://github.com/Layljl0615/CS5001-Senior-Design/tree/master/Design_Diagram)
 
 ## Project Tasks and Timeline:
+* [Project Tasks](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/Tasklist.md)
+* [Timeline](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/Milestone%2CTimeline%2CMatrix.pdf)
 
 ## PPT Slideshow:
 
