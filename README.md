@@ -3,7 +3,6 @@
 
 ## Team Members
 * Jiale Liu
-
   * Computer Science
   * liu3jl@mail.uc.edu
 
