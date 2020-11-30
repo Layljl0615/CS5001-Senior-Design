@@ -21,10 +21,12 @@ My senior design project is an application of face mask recognition. This is an 
 * [Timeline](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/Milestone%2CTimeline%2CMatrix.pdf)
 
 ## PPT Slideshow:
+* [PPT Slides](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/SD%20Presentation.pdf)
 
 ## Self-Assessment Essays:
 
 ## Professional Biographies:
+* [Professional Biographies](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/Professional%20Biography.md)
 
 ## Budget:
 No budget required
