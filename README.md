@@ -1,12 +1,8 @@
-# CS5001-Senior-Design
 
-# Team Name:
+# Lays
 
-Lays
+# Members:Jiale Liu
 
-# Members:
-
-Jiale Liu
 
 1. Salvador Schwendeman (schwenso@mail.uc.edu)
 2. Ian Simon (simonij@mail.uc.edu)
