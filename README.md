@@ -8,3 +8,9 @@
 *  Dr. Fred Annexstein
 
 ## Project Abstract:
+
+## Project Description:
+
+## User Stories and Design Diagrams:
+
+
