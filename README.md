@@ -7,4 +7,4 @@
 ## Faculty Advisor:
 *  Dr. Fred Annexstein
 
-** Project Abstract:
+## Project Abstract:
