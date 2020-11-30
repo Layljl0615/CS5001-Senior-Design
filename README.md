@@ -7,9 +7,8 @@
   * Computer Science
   * liu3jl@mail.uc.edu
 
-# Faculty Advisor:
-
-Professor Boyang Wang
+## Faculty Advisor:
+Dr. Fred Annexstein
 
 # Project Topic Area:
 
