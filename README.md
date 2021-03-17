@@ -14,7 +14,7 @@ To put what I have learned into action, I independently accomplished a set of fa
 My senior design project is an application of face mask recognition. This is an application to check if anyone in the crowd is not wearing a mask. Generally, manual supervision is used to check whether the crowd is wearing masks. My senior design uses deep learning models to detect whether the crowd is wearing a mask. Application scenarios include public transportation, factory, hospitals, schools(UC) and shopping mall(kroger, casio). This project uses the MobileNetV2 algorithm to train the training set and then use VGG and SSD algorithm for target detection.
 
 ## User Documentation and User Manual:
-* [User Documentation and User Manual](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/User%20Stories.md)
+* [User Documentation and User Manual](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/User_Documentation.md)
 
 ## User Stories and Design Diagrams:
 * [User Stories](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/User%20Stories.md)
