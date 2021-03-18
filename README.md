@@ -27,6 +27,8 @@ My senior design project is an application of face mask recognition. This is an 
 ## PPT Slideshow:
 * [PPT Slides](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/SD%20Presentation.pdf)
 
+## Project Presentation Slide deck
+* [PPT Slides](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/SD%20P_up.pptx)
 ## Self-Assessment Essays:
 * [Self-Assessment Essays](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/Self-Assessment-Essays.md)
 
