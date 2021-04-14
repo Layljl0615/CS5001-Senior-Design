@@ -35,7 +35,7 @@ My senior design project is an application of face mask recognition. This is an 
 
 ## Assessment:
 * [Initial Self-Assessment](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/Self-Assessment-Essays.md)
-* [Final Self-Assessment](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/Self-Assessment-Essays.md)
+* [Final Self-Assessment](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/FInal_Assessment)
 
 ## Professional Biographies:
 * [Professional Biographies](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/Professional%20Biography.md)
