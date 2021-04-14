@@ -19,6 +19,12 @@ My senior design project is an application of face mask recognition. This is an 
 ## User Documentation and User Manual:
 * [User Documentation and User Manual](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/User_Documentation.md)
 
+## Spring Final PPT Presentation:
+* [PPT Slides](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/SD%20P_up.pptx)
+
+## Final Expo Poster
+* [Poster](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/SD%20P_up.pptx)
+
 ## User Stories and Design Diagrams:
 * [User Stories](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/User%20Stories.md)
 * [Design Diagrams](https://github.com/Layljl0615/CS5001-Senior-Design/tree/master/Design_Diagram)
@@ -27,11 +33,6 @@ My senior design project is an application of face mask recognition. This is an 
 * [Project Tasks](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/Tasklist.md)
 * [Timeline](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/Milestone%2CTimeline%2CMatrix.pdf)
 
-## PPT Slideshow:
-* [PPT Slides](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/SD%20Presentation.pdf)
-
-## Project Presentation Slide deck
-* [PPT Slides](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/SD%20P_up.pptx)
 ## Self-Assessment Essays:
 * [Self-Assessment Essays](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/Self-Assessment-Essays.md)
 
