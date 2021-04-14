@@ -39,7 +39,7 @@ My senior design project is an application of face mask recognition. This is an 
 
 
 ## Summary of Hours and Justification:
-* [Summary of Hours and Justification](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/Professional%20Biography.md)
+* [Summary of Hours and Justification](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/SummaryofHours.md)
 
 ## Professional Biographies:
 * [Professional Biographies](https://github.com/Layljl0615/CS5001-Senior-Design/blob/master/Professional%20Biography.md)
